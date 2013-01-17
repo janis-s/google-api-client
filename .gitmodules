@@ -1,0 +1,9 @@
+[submodule "External/gtm-http-fetcher"]
+	path = External/gtm-http-fetcher
+	url = git@github.com:karbonworks/gtm-http-fetcher.git
+[submodule "External/gtm-oauth2"]
+	path = External/gtm-oauth2
+	url = git@github.com:karbonworks/gtm-oauth2.git
+[submodule "External/json-framework"]
+	path = External/json-framework
+	url = git@github.com:karbonworks/json-framework.git
